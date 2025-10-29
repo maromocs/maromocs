@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @maromocs (Marinos Efthymiou)
-- 👀 I’m interested in software developing and AI
-- 🌱 I’m currently learning Front and back-end
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach : LinkedIn
-
-
+Hi, I’m Marinos Efthymiou, a cybersecurity enthusiast with a strong foundation in software engineering. My main passion lies in understanding, securing, and strengthening systems against real-world threats  from network defense to application security. I also enjoy building reliable, efficient software that bridges innovation with protection. Always exploring new technologies, learning continuously, and striving to create a safer digital world through code and security.
